@@ -1,0 +1,33 @@
+body{
+  font-family: 'Nunito', sans-serif;
+  border: 2px solid #222;
+  padding: 40px;
+  font-weight: 600;
+  max-width: 800px;
+}
+
+.top-line{
+  border-top: 3px solid #222;
+}
+
+.role{
+  color: green;
+}
+
+.contact p{
+  margin: 2px 0;
+}
+
+.section{
+  margin-top: 30px;
+}
+
+.section-title{
+  color: green;
+  margin-bottom: 9px;
+}
+
+.item-title{
+  color: rgb(0, 132, 255);
+  font-weight: bold;
+}
